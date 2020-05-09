@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1563461528 source:c:\users\mostafa\desktop\projects\task2\functions.c
+	"header.h"
+
+1563462156 c:\users\mostafa\desktop\projects\task2\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1563461578 source:c:\users\mostafa\desktop\projects\task2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
